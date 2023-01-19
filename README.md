@@ -2,7 +2,7 @@
 - 👀 I am interested in many programming languages. Currently working with Java and Flutter.
 - 📫 How to reach me : via Discord Vito#6092 or 8f0hocvp@duck.com
 
-I am working on diffrent private Projects:
+I am working on different private Projects:
 1. Vocabulary_Website (Frontend: HTML&CSS | Backend: Mysql,PHP) - fist generation of SchoolVito (deprecated)
 2. SchoolVito (Frontend: Flutter | Backend: Mysql,PHP) - a vocabulary learning platform (deprecated, Port of Vocabulary_Website)
 -> SchoolVito-backend
