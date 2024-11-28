@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Flutter/Dart**
 
-- 📫 How to reach me **8f0hocvp@duck.com**
+- 📫 How to reach me **fito0912@duck.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
