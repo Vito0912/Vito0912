@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vito</h1>
 <h3 align="center">Versatile Full-Stack Developer with a Passion for Innovation</h3>
 
-<p align="left"> <a href="https://twitter.com/vito09122" target="blank"><img src="https://img.shields.io/twitter/follow/vito09122?logo=twitter&style=for-the-badge" alt="vito09122" /></a> </p>
-
 - 🔭 I’m currently working on **multiple contests**
 
 - 🌱 I’m currently learning **Java**
