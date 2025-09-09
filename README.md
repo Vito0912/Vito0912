@@ -1,5 +1,15 @@
 <h1 align="left">Finn Dittmar</h1>
 
+I love audiobooks and books. Supporting [Audiobookshelf](https://github.com/advplyr/audiobookshelf).  
+I support Open-Source projects and try to keep them Open-Source.  
+AGPL-3.0 is the best license.  
+
+Visit my page at https://dittmar-ldk.de  
+For everything related to tools, clients, and projects for ABS, visit the official [docs](https://www.audiobookshelf.org) or check out my [Toolbox for ABS](https://abstoolbox.vito0912.de).
+
+For my projects head to [Repositiries](https://github.com/Vito0912?tab=repositories) or see my pinned Repos below.
+
+
 ###
 
 <h2 align="center">Techs</h3>
