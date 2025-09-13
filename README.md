@@ -114,6 +114,7 @@ For my projects head to [Repositories](https://github.com/Vito0912?tab=repositor
 ###
 
 <div align="center">
+  <img src="https://img.shields.io/endpoint?url=https://waka.dittmar-ldk.de/api/compat/shields/v1/Vito0912/interval:all_time&label=All%20Time&color=blue" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Vito0912.Vito0912&"  />
 </div>
 
