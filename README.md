@@ -84,6 +84,7 @@ For my projects head to [Repositories](https://github.com/Vito0912?tab=repositor
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <br />Oh, and QT-Creator (-100) - worst
 </div>
 
 ###
