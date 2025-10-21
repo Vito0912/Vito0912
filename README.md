@@ -9,6 +9,7 @@ For everything related to tools, clients, and projects for ABS, visit the offici
 
 For my projects head to [Repositories](https://github.com/Vito0912?tab=repositories) or see my pinned Repos below.
 
+I love typst
 
 ###
 
