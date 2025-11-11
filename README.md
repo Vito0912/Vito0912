@@ -11,6 +11,8 @@ For my projects head to [Repositories](https://github.com/Vito0912?tab=repositor
 
 I love typst
 
+Built [Snippyst](https://snippyst.com) for sharing typst knowledge.
+
 ###
 
 <h2 align="center">Techs</h3>
